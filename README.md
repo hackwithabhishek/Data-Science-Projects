@@ -8,6 +8,7 @@ It is a dataset including information on amazon job opening around the world fro
 
 ### 3. Indian startups funding Data Analysis
 This dataset has funding information of the Indian startups from January 2015 to August 2017.
+
     1.Find out what type of startups are getting funded in the last few years?
     2.Who are the important investors?
     3..What are the hot fields that get a lot of funding these days?
